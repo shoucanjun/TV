@@ -3,7 +3,8 @@ from time import time
 import asyncio
 import re
 from utils.config import config
-from utils.tools import is_ipv6, get_resolution_value
+from utils.constants import get_resolution_value
+from utils.tools import is_ipv6, add_url_info, remove_cache_info
 import subprocess
 
 timeout = config.getint("Settings", "sort_timeout", fallback=5)
@@ -106,21 +107,12 @@ async def check_stream_speed(url_info):
         if frame is None or frame == float("inf"):
             return float("inf")
         if resolution:
-            url_info[0] = add_info_url(url, resolution)
+            url_info[0] = add_url_info(url, resolution)
         url_info[2] = resolution
-        return (tuple(url_info), frame)
+        return (url_info, frame)
     except Exception as e:
         print(e)
         return float("inf")
-
-
-def add_info_url(url, info):
-    """
-    Format the url
-    """
-    separator = "|" if "$" in url else "$"
-    url += f"{separator}{info}"
-    return url
 
 
 speed_cache = {}
@@ -136,20 +128,23 @@ async def get_speed_by_info(
         url, _, resolution, _ = url_info
         url_info = list(url_info)
         cache_key = None
+        url_is_ipv6 = is_ipv6(url)
         if "$" in url:
             url, cache_info = url.split("$", 1)
-            if "cache:" in cache_info:
-                matcher = re.search(r"cache:(.*)", cache_info)
-                if matcher:
-                    cache_key = matcher.group(1)
-        url_is_ipv6 = is_ipv6(url)
-        if url_is_ipv6:
-            url = add_info_url(url, "IPv6")
+            matcher = re.search(r"cache:(.*)", cache_info)
+            if matcher:
+                cache_key = matcher.group(1)
+            url_show_info = remove_cache_info(cache_info)
         url_info[0] = url
         if cache_key in speed_cache:
             speed = speed_cache[cache_key][0]
             url_info[2] = speed_cache[cache_key][1]
-            return (tuple(url_info), speed) if speed != float("inf") else float("inf")
+            if speed != float("inf"):
+                if url_show_info:
+                    url_info[0] = add_url_info(url, url_show_info)
+                return (tuple(url_info), speed)
+            else:
+                return float("inf")
         try:
             if ipv6_proxy and url_is_ipv6:
                 url = ipv6_proxy + url
@@ -162,12 +157,13 @@ async def get_speed_by_info(
             else:
                 url_speed = await get_speed(url)
                 speed = (
-                    (tuple(url_info), url_speed)
-                    if url_speed != float("inf")
-                    else float("inf")
+                    (url_info, url_speed) if url_speed != float("inf") else float("inf")
                 )
             if cache_key and cache_key not in speed_cache:
                 speed_cache[cache_key] = (url_speed, resolution)
+            if url_show_info:
+                speed[0][0] = add_url_info(speed[0][0], url_show_info)
+            speed = (tuple(speed[0]), speed[1])
             return speed
         except Exception:
             return float("inf")
