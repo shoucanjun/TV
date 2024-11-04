@@ -130,7 +130,7 @@ class UpdateSource:
     def get_urls_len(self, filter=False):
         data = copy.deepcopy(self.channel_data)
         if filter:
-            process_nested_dict(data, seen=set(), flag=r"cache:(.*)")
+            process_nested_dict(data, seen=set(), flag=r"cache:(.*)", force_str="!")
         processed_urls = set(
             url_info[0]
             for channel_obj in data.values()
@@ -150,9 +150,9 @@ class UpdateSource:
             ]
             await self.visit_page(channel_names)
             self.tasks = []
-            channel_items_obj_items = self.channel_items.items()
             append_total_data(
-                channel_items_obj_items,
+                self.channel_items.items(),
+                channel_names,
                 self.channel_data,
                 self.hotel_fofa_result,
                 self.multicast_result,
@@ -185,7 +185,6 @@ class UpdateSource:
             self.pbar = tqdm(total=self.total, desc="Writing")
             self.start_time = time()
             write_channel_to_file(
-                channel_items_obj_items,
                 self.channel_data,
                 ipv6=ipv6_support,
                 callback=lambda: self.pbar_update(name="写入结果"),
