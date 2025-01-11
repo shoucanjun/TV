@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-11 19:04:20,url
+2025-01-12 06:55:35,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -206,7 +206,6 @@ CETV4,http://123.56.129.203:3514/rtp/225.1.8.195:4120$北京电信组播源
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv$订阅源
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv$订阅源
-香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 浙江卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=no$订阅源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 浙江卫视,http://60.223.224.176:8888/newlive/live/hls/23/live.m3u8$订阅源
@@ -716,6 +715,7 @@ CETV4,http://123.56.129.203:3514/rtp/225.1.8.195:4120$北京电信组播源
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt$订阅源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源|1920x1080
 凤凰中文,http://120.55.49.231:9568/rtp/233.50.200.191:5140$组播源
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$组播源
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8$订阅源
 凤凰中文,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
@@ -727,6 +727,7 @@ CETV4,http://123.56.129.203:3514/rtp/225.1.8.195:4120$北京电信组播源
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-19.m3u8$订阅源
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-13.ctv$订阅源
 凤凰资讯,http://120.55.49.231:9568/rtp/233.50.200.192:5140$组播源
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$组播源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv$订阅源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv$订阅源
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv$订阅源
@@ -755,7 +756,6 @@ CETV4,http://123.56.129.203:3514/rtp/225.1.8.195:4120$北京电信组播源
 凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-6.ctv$订阅源
 凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-10.ctv$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
-凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
@@ -768,7 +768,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源|19
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv$订阅源
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv$订阅源
-香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8$订阅源
 纬来体育,https://stream1.freetv.fun/293ffc7d611ff105b214c4988db64f399b5ab87a1b5395ca4ff735e98645e854.ctv$订阅源
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv$订阅源
@@ -778,7 +777,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源|19
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源|1920x1080
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$订阅源|1920x1080
-纬来体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8$订阅源
+纬来体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8$订阅源|1920x1080
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 J2,http://r.jdshipin.com/ndGgS$订阅源
 J2,http://r.jdshipin.com/Nr5jq$订阅源
@@ -804,7 +803,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森综合,https://stream1.freetv.fun/226ab2f3bdc9d0a3f07d22b13532ba92c0c3d78ea31f0dac0eac6091369a516e.ctv$订阅源
-东森综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
@@ -821,10 +819,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8$订阅源
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8$订阅源
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-7.ctv$订阅源
-东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie$订阅源
-东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
-东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
-东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源
 🎬电影频道,#genre#
 CHC家庭影院,https://stream1.freetv.fun/chc-jia-ting-ying-yuan-1.ctv$订阅源
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.m3u8$订阅源
@@ -869,7 +863,6 @@ NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?chan
 经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0$订阅源
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 IPTV经典电影,http://123.56.129.203:7606/rtp/225.1.8.203:9024$北京电信组播源
-无线星河,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8$订阅源
@@ -883,10 +876,6 @@ IPTV经典电影,http://123.56.129.203:7606/rtp/225.1.8.203:9024$北京电信组
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8$订阅源
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8$订阅源
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-7.ctv$订阅源
-东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie$订阅源
-东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
-东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
-东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
@@ -941,10 +930,11 @@ CCTV-5+,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/6000
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源|1920x1080
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$订阅源|1920x1080
-纬来体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8$订阅源
+纬来体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8$订阅源|1920x1080
 五星体育,http://139.196.151.191:6664/rtp/239.45.3.210:5140$组播源
 五星体育,http://139.196.151.191:6846/rtp/239.45.3.210:5140$组播源
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140$组播源
+五星体育,http://139.196.151.191:7549/rtp/239.45.3.210:5140$组播源
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-11.ctv$订阅源
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-3.m3u8$订阅源
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-4.m3u8$订阅源
@@ -993,10 +983,10 @@ CCTV-5+,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/6000
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-5.m3u8$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-6.m3u8$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-2.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-21.ctv$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-17.ctv$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-10.ctv$订阅源
@@ -1032,6 +1022,8 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 动漫秀场,https://stream1.freetv.fun/c1a9c0728c4a8d7636c7de8d4f69f3abdc906231ea7f7e72d59433843738617f.m3u8$
 动漫秀场,https://stream1.freetv.fun/3db4e163a68d0e426d82c41072c03763ff9708ec882448590e3096d87f073067.m3u8$
 动漫秀场,https://stream1.freetv.fun/7e65432fb94551c8a7abf4afa8996c11471807bf9cf6ec1a3e49a2c25b2c1f58.m3u8$订阅源
+青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源
+宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 优漫卡通,http://122.9.151.210:5987/rtp/238.255.2.57:5999$组播源
 优漫卡通,http://139.129.231.228:50060/rtp/239.21.1.50:5002$组播源
@@ -1058,8 +1050,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-17.ctv$订阅源
 炫动卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8$订阅源
 浙江少儿,http://120.55.49.231:7320/rtp/233.50.201.138:5140$组播源
-浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$组播源
-浙江少儿,http://120.55.49.231:3543/rtp/233.50.201.138:5140$组播源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.m3u8$订阅源
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-7.m3u8$订阅源
@@ -1086,12 +1076,16 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 七龙珠,https://live.iill.top/huya/25650806$订阅源
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 火影忍者,https://live.iill.top/douyu/1997723$订阅源
+海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919$订阅源
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn$订阅源
 中华小当家,http://live.iill.top/huya.php?id=11342413$订阅源
 中华小当家,https://live.iill.top/huya/11342413$订阅源
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$订阅源
 猫和老鼠,https://live.iill.top/huya/11352879$订阅源
+蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
 漫画解说,http://live.nctv.top/6688/yy.php?id=1382735568$订阅源
+🎮游戏频道,#genre#
+电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源
 🎵音乐频道,#genre#
 CCTV-15,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=no$订阅源
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -1110,6 +1104,7 @@ CCTV-15,http://61.136.67.238:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
 天龙八部,http://huanqiuzhibo.cn/manifest/huya.php?id=23903123$订阅源
 鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
 三国演义,http://live.metshop.top/huya/11602081$订阅源
 封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
@@ -1139,6 +1134,7 @@ NewTV动作电影,url
 星卫娱乐,url
 艾尔达娱乐,url
 天映经典,url
+无线星河,url
 私人影院,url
 龙祥电影,url
 东森洋片,url
@@ -1198,28 +1194,22 @@ NewTV动作电影,url
 睛彩广场舞,url
 少儿动画,url
 新动漫,url
-青春动漫,url
 爱动漫,url
 中录动漫,url
-宝宝动画,url
 睛彩少儿,url
 黑莓动画,url
 24H国漫热播,url
-海绵宝宝,url
 斗破苍穹玄幻剧,url
 经典动漫,url
-蜡笔小新,url
 游戏风云,url
 游戏竞技,url
 电竞游戏,url
 海看电竞,url
-电竞天堂,url
 爱电竞,url
 风云音乐,url
 潮流音乐,url
 天津音乐,url
 音乐广播,url
-仙剑奇侠传,url
 西游记,url
 水浒传,url
 新白娘子传奇,url
