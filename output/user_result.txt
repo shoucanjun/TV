@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-25 19:02:35,url
+2025-01-26 06:56:08,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -796,11 +796,10 @@ CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源|1920x1080
-靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058$订阅源
+靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058$订阅源|1920x1080
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-19.ctv$
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 IPTV经典电影,http://123.56.129.203:7606/rtp/225.1.8.203:9024$北京电信组播源
-无线星河,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv$订阅源
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8$订阅源
@@ -894,9 +893,9 @@ CCTV-5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=
 山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002$组播源
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8$订阅源
 山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-19.ctv$
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-20.ctv$
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-15.ctv$
@@ -1015,7 +1014,6 @@ CCTV-15,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000
 天龙八部,http://huanqiuzhibo.cn/manifest/huya.php?id=23903123$订阅源
 鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
 仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
-三国演义,http://live.metshop.top/huya/11602081$订阅源
 封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
 🈳无结果频道,#genre#
@@ -1043,6 +1041,7 @@ NewTV动作电影,url
 星卫娱乐,url
 艾尔达娱乐,url
 天映经典,url
+无线星河,url
 私人影院,url
 龙祥电影,url
 东森洋片,url
@@ -1119,6 +1118,7 @@ NewTV动作电影,url
 天津音乐,url
 音乐广播,url
 西游记,url
+三国演义,url
 水浒传,url
 新白娘子传奇,url
 济公游记,url
