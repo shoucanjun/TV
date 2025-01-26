@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-26 19:04:16,url
+2025-01-27 06:54:05,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -669,7 +669,6 @@ CETV4,http://123.56.129.203:3514/rtp/225.1.8.195:4120$北京电信组播源
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt$订阅源
 凤凰中文,http://120.55.49.231:9568/rtp/233.50.200.191:5140$组播源
-凤凰中文,http://120.55.49.231:3095/rtp/233.50.200.191:5140$组播源
 凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8$
@@ -916,8 +915,6 @@ CCTV-5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8$订阅源
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-4.m3u8$订阅源
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$订阅源
-快乐垂钓,http://220.249.114.102:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-快乐垂钓,http://220.249.114.102:9901/tsfile/live/1021_1.m3u8$订阅源
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983$订阅源
 JJ斗地主,http://live.iill.top/douyu.php?id=488743$订阅源
 JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
@@ -965,7 +962,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源|1920x1080
 炫动卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8$订阅源
 浙江少儿,http://120.55.49.231:7320/rtp/233.50.201.138:5140$组播源
-浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$组播源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-11.ctv$
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-1.m3u8$
@@ -1011,6 +1007,7 @@ CCTV-15,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000
 音乐调频广播,http://120.55.49.231:9719/rtp/233.50.201.82:5140$浙江电信组播源
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
@@ -1093,6 +1090,7 @@ NewTV动作电影,url
 吉林篮球,url
 睛彩羽毛球,url
 睛彩广场舞,url
+快乐垂钓,url
 少儿动画,url
 新动漫,url
 爱动漫,url
@@ -1113,7 +1111,6 @@ NewTV动作电影,url
 音乐广播,url
 天龙八部,url
 鹿鼎记,url
-仙剑奇侠传,url
 西游记,url
 三国演义,url
 水浒传,url
